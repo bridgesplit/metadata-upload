@@ -1,0 +1,6 @@
+assets/*
+meta_assets/*
+*.csv
+/node_modules
+meta_assets.json
+metadata.json
